@@ -1,2 +1,2 @@
 [config]
-project = TimerTriggerCSharp1
+command = deploy.cmd
