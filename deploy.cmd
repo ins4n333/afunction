@@ -1,5 +1,5 @@
 @echo off
 echo Building...
-"%MSBUILD_PATH%" TestFuncLib\TestFuncLib.csproj /p:Configuration=Release /p:Platform=x86 /p:OutDir=TimerTriggerCSharp1\bin
+"%MSBUILD_PATH%" TestFuncLib\TestFuncLib.csproj /p:Configuration=Release /p:Platform=x86 /p:OutDir="TimerTriggerCSharp1\bin\"
 echo Deploying files...
 xcopy %DEPLOYMENT_SOURCE%\TimerTriggerCSharp1 %DEPLOYMENT_TARGET% /Y
