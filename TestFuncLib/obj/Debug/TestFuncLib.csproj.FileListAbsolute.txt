@@ -1,0 +1,5 @@
+C:\Git\functions\TestFuncLib\bin\Debug\TestFuncLib.dll
+C:\Git\functions\TestFuncLib\bin\Debug\TestFuncLib.pdb
+C:\Git\functions\TestFuncLib\obj\Debug\TestFuncLib.csprojResolveAssemblyReference.cache
+C:\Git\functions\TestFuncLib\obj\Debug\TestFuncLib.dll
+C:\Git\functions\TestFuncLib\obj\Debug\TestFuncLib.pdb
