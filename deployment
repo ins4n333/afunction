@@ -1,5 +1,2 @@
 [config]
 project = TimerTriggerCSharp1
-
-[config]
-project = TestFuncLib/TestFuncLib.csproj
