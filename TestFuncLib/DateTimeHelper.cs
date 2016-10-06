@@ -2,9 +2,9 @@
 
 namespace TestFuncLib
 {
-    public class DateTimeHelper
+    public static class DateTimeHelper
     {
-        public DateTime GetCurrentDateTime()
+        public static DateTime GetCurrentDateTime()
         {
             return DateTime.UtcNow;
         }
