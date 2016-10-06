@@ -1,5 +1,5 @@
 @echo off
 echo Building...
-"%MSBUILD_PATH%" TestFuncLib\TestFuncLib.csproj /p:OutDir=%DEPLOYMENT_SOURCE%\TimerTriggerCSharp1\bin\
+"%MSBUILD_PATH%" TestFuncLib\TestFuncLib.csproj /p:OutDir=%DEPLOYMENT_SOURCE%\TestFunc\bin\
 echo Deploying files...
-xcopy %DEPLOYMENT_SOURCE%\TimerTriggerCSharp1 %DEPLOYMENT_TARGET%\TimerTriggerCSharp1 /e /s /y
+xcopy %DEPLOYMENT_SOURCE%\TestFunc %DEPLOYMENT_TARGET%\TestFunc /e /s /y
