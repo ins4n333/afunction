@@ -1,4 +1,4 @@
-#r "TestFuncLib"
+#r "TestFuncLib.dll"
 
 using System;
 
